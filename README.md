@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @shamalweerasooriya
 - 👀 I'm a third-year computer engineering undergraduate at Department of Computer Engineering, Unversity of Peradeniya
 - 📫 How to reach me ...
+  - e17380@eng.pdn.ac.lk
+  - sasanka14@gmail.com
+ 
 
 
 <!---
