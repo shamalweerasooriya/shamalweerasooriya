@@ -5,7 +5,9 @@
   - sasanka14@gmail.com
  
 [Linkedin](https://www.linkedin.com/in/shamal-weerasooriya/)
+
 [Web](https://shamalweerasooriya.tech/)
+
 [Hackerrank](https://www.hackerrank.com/sasanka14)
 
 
