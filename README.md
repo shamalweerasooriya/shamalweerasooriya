@@ -4,10 +4,8 @@
   - e17380@eng.pdn.ac.lk
   - sasanka14@gmail.com
  
-[Linkedin](https://www.linkedin.com/in/shamal-weerasooriya/)
-
-[Web](https://shamalweerasooriya.tech/)
-
+[Linkedin](https://www.linkedin.com/in/shamal-weerasooriya/) <br>
+[Web](https://shamalweerasooriya.tech/) <br>
 [Hackerrank](https://www.hackerrank.com/sasanka14)
 
 
